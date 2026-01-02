@@ -13,8 +13,8 @@
   "private": true,
   "dependencies": {
     "@angular/animations": "^4.0.0",
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
+    "@angular/common": "^19.2.16",
+    "@angular/compiler": "^19.2.17",
     "@angular/core": "^4.0.0",
     "@angular/forms": "^4.0.0",
     "@angular/http": "^4.0.0",
@@ -27,12 +27,12 @@
     "core-js": "^2.4.1",
     "rxjs": "^5.1.0",
     "zone.js": "^0.8.4",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^5.0.0",
     "jquery": "^3.2.1",
     "jqueryui": "^1.11.1"
   },
   "devDependencies": {
-    "@angular/cli": "^1.7.1",
+    "@angular/cli": "^21.0.4",
     "@angular/compiler-cli": "^4.0.0",
     "@angular/language-service": "^4.0.0",
     "@types/jasmine": "2.5.45",
